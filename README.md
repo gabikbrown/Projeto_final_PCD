@@ -22,11 +22,11 @@ Geometricamente, esse vetor aponta na direção em que $f$ cresce mais rapidamen
 Os resultados obtidos pelo projeto foram favoráveis às expectativas, uma vez que após testes realizados foi possivel calcular assim como visualizar o gradiente e seu módulo em um gráfico 3D.
 Segue em anexo um exemplo:
 
-<div align="center">
+<p align="center">
+ 
+   <img src="assets/image.png" width="400">
 
-  ![Imagem](image2.png)
-
-</div>
+</p>
 
 ## Conclusão 
 A implementação apresentada demonstra como ferramentas de computação simbólica e numérica podem ser combinadas para tornar tangível um conceito abstrato do cálculo de várias variáveis. Ao calcular exatamente as derivadas parciais de uma função e representá-las geometricamente sobre sua superfície, o programa reforça a compreensão de que o gradiente não é apenas uma expressão algébrica, m um objeto com significado geométrico direto: a direção e a intensidade de maior variação de uma função em torno de um ponto. Como possível extensão futura, destaca-se o desenvolvimento de um modo interativo, em que o ponto analisado possa ser alterado dinamicamente, por meio de controles deslizantes, permitindo observar em tempo real a atualização do vetor gradiente sobre a superfície e tornando ainda mais evidente a relação entre a posição do ponto e o comportamento geométrico do gradiente.
