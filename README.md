@@ -29,3 +29,4 @@ Segue em anexo um exemplo:
 </div>
 
 ## Conclusão 
+A implementação apresentada demonstra como ferramentas de computação simbólica e numérica podem ser combinadas para tornar tangível um conceito abstrato do cálculo de várias variáveis. Ao calcular exatamente as derivadas parciais de uma função e representá-las geometricamente sobre sua superfície, o programa reforça a compreensão de que o gradiente não é apenas uma expressão algébrica, mas um objeto com significado geométrico direto: a direção e a intensidade de maior variação de uma função em torno de um ponto. Como possíveis extensões futuras, destacam-se a generalização do parser para aceitar expressões arbitrárias digitadas pelo usuário com validação mais robusta, a incorporação do vetor tangente tridimensional real de máxima inclinação, e a extensão natural deste trabalho para a implementação de algoritmos de descida de gradiente, utilizando a mesma base simbólica e numérica aqui construída.
