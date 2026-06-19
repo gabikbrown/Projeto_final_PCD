@@ -24,7 +24,7 @@ Segue em anexo um exemplo:
 
 <div align="center">
 
-  ![Imagem](image.png)
+  ![Imagem](image2.png)
 
 </div>
 
