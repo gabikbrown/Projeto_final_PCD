@@ -11,18 +11,12 @@ Projeto desenvolvido para a matéria de Prática em Ciência de Dados, ministrad
 ## Objetivos 
 Este código tem por objetivo criar uma ferramenta que, a partir de uma função real de duas variáveis $f(x,y)$ e de um ponto $(x, y)$ do domínio, calcula as derivadas parciais, monta o vetor gradiente, determina seu módulo no ponto escolhido e produz uma vizualisação tridimensional da superfície junto com o ponto analisado e a projeção do vetor gradiente sobre ela. 
 
-## Fundamentação teórica do projeto
-Na matemática, dada uma função diferenciável $f(x,y)$, o gradiente é o vetor formado por suas derivadas parciais: 
-
-$$\nabla f(x, y) = \left( \frac{\partial f}{\partial x}, \frac{\partial f}{\partial y} \right)$$
-
-Geometricamente, esse vetor aponta na direção em que $f$ cresce mais rapidamente a partir do ponto considerado, e seu módulo $|\nabla f| = \sqrt{f_x^2 + f_y^2}$, mede a taxa de crescimento nessa direção. Em qualquer ponto, o gradiente é ortogonal à curva de nível que passa por esse ponto, por isso, ao projetá-lo sobre a superfície tridimensional, ele indica visualmente o caminho de subida mais inclinado.
 
 ## Resultados 
 Os resultados obtidos pelo projeto foram favoráveis às expectativas, uma vez que após testes realizados foi possivel calcular assim como visualizar o gradiente e seu módulo em um gráfico 3D.
 Segue em anexo um exemplo:
 
-![Gráfico](assets/image3.png)
+
 
 ## Conclusão 
-A implementação apresentada demonstra como ferramentas de computação simbólica e numérica podem ser combinadas para tornar tangível um conceito abstrato do cálculo de várias variáveis. Ao calcular exatamente as derivadas parciais de uma função e representá-las geometricamente sobre sua superfície, o programa reforça a compreensão de que o gradiente não é apenas uma expressão algébrica, m um objeto com significado geométrico direto: a direção e a intensidade de maior variação de uma função em torno de um ponto. Como possível extensão futura, destaca-se o desenvolvimento de um modo interativo, em que o ponto analisado possa ser alterado dinamicamente, por meio de controles deslizantes, permitindo observar em tempo real a atualização do vetor gradiente sobre a superfície e tornando ainda mais evidente a relação entre a posição do ponto e o comportamento geométrico do gradiente.
+A ferramentas demonstra como computação simbólica e numérica podem ser combinadas para tornar visual um conceito abstrato do cálculo de várias variáveis. Ao calcular exatamente as derivadas parciais de uma função e representá-las geometricamente sobre sua superfície, o programa reforça a compreensão de que o gradiente não é apenas uma expressão algébrica, mas sim um objeto com significado geométrico: a direção e a intensidade de maior variação de uma função em torno de um ponto. Como possível extensão futura, destaca-se o desenvolvimento de um modo interativo, em que o ponto analisado possa ser alterado dinamicamente, por meio de controles deslizantes, permitindo observar em tempo real a atualização do vetor gradiente sobre a superfície e tornando ainda mais evidente a relação entre a posição do ponto e o comportamento geométrico do gradiente.
