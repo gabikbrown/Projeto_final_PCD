@@ -27,4 +27,8 @@ Você pode [acessar o código fonte do projeto](http://localhost:8888/lab/tree/J
 ## Abrir e rodar o projeto 
 Para rodar o projeto, basta entrar no código fonte e rodá-lo.
 Ou ainda, baixar o projeto e rodá-lo em ambiente Jupyter.
+## Bibliotecas utilizadas
+- numpy
+- sympy
+- matplotlib
 
