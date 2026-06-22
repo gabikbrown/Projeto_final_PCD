@@ -12,3 +12,17 @@ Projeto desenvolvido para a matéria de Prática em Ciência de Dados, ministrad
 - `Sympy` foi importado para transformar strings, como "x" e "y", em símbolos para serem manipulados matematicamente
 - `Matplotlib` foi importado para criar gráficos
 - `Axes3D` foi importado para desenhar gráficos em 3D, especificamente 
+
+**Descrição do projeto
+Este código tem por objetivo construir uma ferramenta que, a partir de uma função real de duas variáveis $f(x,y)$ e de um ponto $(x, y)$ do domínio, seja capaz de:
+- Calcular simbolicamente as derivadas parciais de $x$ e $y$ por meio da biblioteca `Sympy`
+- Exibir o vetor gradiente em dois pontos escolhidos pelo usuário
+- Determinar o módulo do gradiente no ponto analisado
+- Produzir uma visualização tridimensional da superfície $z = f(x,y)$, com o ponto analisado destacado e o vetor gradiente projetado sobre ela.
+
+Para isso, necessita-se das bibliotecas `Numpy` para operações numéricas e para geração da malha, `Sympy` para diferenciação simbólica e conversão numérica por meio do módulo `lambdify`. Além disso, para parte gráfica, é empregado o `Matplotlib` para a renderização da superfície bem como do vetor com os módulos `plot_surface` e `quiver`
+
+## Acesso ao projeto 
+**Você pode [acessar o código fonte do projeto](http://localhost:8888/lab/tree/James/ProjetoFinalPCD.ipynb) ou [baixá-lo](http://localhost:8888/files/James/ProjetoFinalPCD.ipynb?_xsrf=2%7Cbb372380%7Ca712f182f1fce7c9e326f06dde87e171%7C1781466553) 
+## Abrir e rodar o projeto 
+- baixe o arquivo e rode no ambiente Jupyter
