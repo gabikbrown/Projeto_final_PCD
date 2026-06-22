@@ -32,6 +32,28 @@ Ou ainda, baixar o projeto e rodá-lo em ambiente Jupyter.
 - sympy
 - matplotlib
 ## Professores
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="Prof. Daniel R. Cassar">
+        <img src="https://avatars.githubusercontent.com/u/9871905?v=4" width="100px;" alt="Foto do Daniel do Github"/><br>
+          <a href="https://github.com/drcassar"><b>Prof. Dr. Daniel R. Cassar<b></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="Prof. James M. de Almeida">
+        <img src="https://avatars.githubusercontent.com/u/108157661?v=4" width="100px;" alt="Foto do James do Github"/><br>
+          <a href="https://github.com/jamesmalmeida"><b>Prof. Dr. James M. de Almeida<b></a>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="Prof. Leandro N. Lemos">
+        <img src="https://avatars.githubusercontent.com/u/1894434?v=4" width="100px;" alt="Foto do Leandro do Github"/><br>
+          <a href="https://github.com/llemos"><b>Prof. Dr. Leandro N. Lemos<b></a>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Autores 
 [Gabriela Cabral ](https://github.com/gabikbrown)
