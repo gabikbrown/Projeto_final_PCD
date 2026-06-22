@@ -13,7 +13,7 @@ Projeto desenvolvido para a matéria de Prática em Ciência de Dados, ministrad
 - `Matplotlib` foi importado para criar gráficos
 - `Axes3D` foi importado para desenhar gráficos em 3D, especificamente 
 
-**Descrição do projeto
+## Descrição do projeto
 Este código tem por objetivo construir uma ferramenta que, a partir de uma função real de duas variáveis $f(x,y)$ e de um ponto $(x, y)$ do domínio, seja capaz de:
 - Calcular simbolicamente as derivadas parciais de $x$ e $y$ por meio da biblioteca `Sympy`
 - Exibir o vetor gradiente em dois pontos escolhidos pelo usuário
@@ -27,10 +27,7 @@ Você pode [acessar o código fonte do projeto](http://localhost:8888/lab/tree/J
 ## Abrir e rodar o projeto 
 Para rodar o projeto, basta entrar no código fonte e rodá-lo.
 Ou ainda, baixar o projeto e rodá-lo em ambiente Jupyter.
-## Bibliotecas utilizadas
-- numpy
-- sympy
-- matplotlib
+
 ## Professores
 <table>
   <tr>
