@@ -27,7 +27,18 @@ Você pode [acessar o código fonte do projeto](http://localhost:8888/lab/tree/J
 ## Abrir e rodar o projeto 
 Para rodar o projeto, basta entrar no código fonte e rodá-lo.
 Ou ainda, baixar o projeto e rodá-lo em ambiente Jupyter.
+##  Referências
+MATPLOTLIB DEVELOPMENT TEAM. Plot 2D data on 3D plot. Matplotlib Documentation. Disponível em: https://br.matplotlib.net/stable/gallery/mplot3d/2dcollections3d.html#sphx-glr-gallery-mplot3d-2dcollections3d-py
 
+THE MASTER CODER. Visualização interativa de dados 3D com Matplotlib. The Master Coder Blog, 2025. Disponível em: https://themastercoder.blogspot.com/2025/10/visualizacao-interativa-de-dados-3d-com.html
+
+TOOLCLUSTER. 8 Python Math Libraries You Should Know — From stdlib to NumPy & SciPy. ToolCluster Blog, 2026. Disponível em: https://toolcluster.app/pt/blog/python-math-libraries/
+
+Claude. Assistente de inteligência artificial. Desenvolvido pela Anthropic. Disponível em: https://claude.ai
+
+GEOGEBRA. Calculadora 3D. Disponível em: https://www.geogebra.org/3d
+
+ALVES, Camila Fernanda. Como escrever um README incrível no seu Github. Disponível em: https://www.alura.com.br/artigos/escrever-bom-readme
 ## Professores
 <table>
   <tr>
