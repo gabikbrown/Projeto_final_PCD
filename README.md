@@ -31,4 +31,5 @@ Ou ainda, baixar o projeto e rodá-lo em ambiente Jupyter.
 - numpy
 - sympy
 - matplotlib
-
+## Autores 
+[Gabriela Cabral ](https://github.com/gabikbrown)
